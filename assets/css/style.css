@@ -226,6 +226,7 @@ Làm cho search icon bị rụng xuống */
     font-size: 15px;
     font-weight: 600;
     margin-top: 25px;
+    text-shadow: 0 0 .5px #000;
 }
 
 /* Content section */
